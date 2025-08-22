@@ -13,3 +13,6 @@ It is a simple two-player game where players take turns marking spaces in a 3×3
 - **HTML** – Game layout  
 - **CSS** – Styling and grid design  
 - **JavaScript** – Game logic and interactions
+  
+## Deployed on Netlify
+Check out the link:https://wajidakhtar4321.github.io/Tic-Tac-Toe-Game/
